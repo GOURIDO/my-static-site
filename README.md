@@ -37,9 +37,9 @@ This project demonstrates how to create and deploy a simple static website using
    git push -u origin main
 2. On GitHub:
 
-Go to Settings > Pages
+   Go to Settings > Pages
 
-Under Source, select the main branch and root (/)
+   Under Source, select the main branch and root (/)
 
 Click Save
 On GitHub:
