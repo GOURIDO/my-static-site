@@ -47,10 +47,10 @@ Go to Settings > Pages
 Under Source, select the main branch and root (/)
 Click Save
 
-3.GitHub will generate a URL like:
+3. GitHub will generate a URL like:
 https://your-username.github.io/your-repo/
 
-4.Visit the URL to view your live site.
+4. Visit the URL to view your live site.
 
 ##HOW TO USE
 Open the index.html file in any browser to see the static website.
