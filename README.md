@@ -52,7 +52,7 @@ https://your-username.github.io/your-repo/
 
 4. Visit the URL to view your live site.
 
-##HOW TO USE
+## HOW TO USE
 Open the index.html file in any browser to see the static website.
 
 Click the button (if JavaScript is included) to change background color.
